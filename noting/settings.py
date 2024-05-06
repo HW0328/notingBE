@@ -4,7 +4,7 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 
 SECRET_KEY = 'django-insecure-x5)v90ql32rfywx)k#v1ij#n9))ufsj^_1n&!c7znsw7%=@=xm'
 
-DEBUG = False
+DEBUG = True
 
 ALLOWED_HOSTS = [
     'port-0-notingbe-1h3rc2alsfrkt4x.sel5.cloudtype.app'
