@@ -3,3 +3,4 @@ httpx==0.19.0
 beautifulsoup4==4.10.0
 Django==3.2.10
 django-cors-headers==3.9.0
+django-push-notifications===3.1.0
