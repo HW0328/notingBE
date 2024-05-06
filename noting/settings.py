@@ -6,7 +6,10 @@ SECRET_KEY = 'django-insecure-x5)v90ql32rfywx)k#v1ij#n9))ufsj^_1n&!c7znsw7%=@=xm
 
 DEBUG = False
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [
+    'port-0-notingbe-1h3rc2alsfrkt4x.sel5.cloudtype.app'
+]
+
 
 INSTALLED_APPS = [
     'board',
